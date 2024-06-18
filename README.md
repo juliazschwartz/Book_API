@@ -1,4 +1,4 @@
-<h2>Work in Progress!</h2>
-<span>Book API to practice Node JS, in MongoDB, with mongoose module</span>
+<h2>Trabalho em Progresso!</h2>
+<span>Estou construindo essa API de livros para praticar NodeJs, e sua conexão com o  MongoDB, utilizando o módulo mongoose</span>
 <img src="1.png"></img>
 
